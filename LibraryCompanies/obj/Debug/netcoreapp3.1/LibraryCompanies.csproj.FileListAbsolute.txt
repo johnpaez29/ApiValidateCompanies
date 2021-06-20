@@ -1,9 +1,0 @@
-C:\Users\johnp\source\repos\ApiRestValidacionEmpresas\LibraryCompanies\bin\Debug\netcoreapp3.1\LibraryCompanies.deps.json
-C:\Users\johnp\source\repos\ApiRestValidacionEmpresas\LibraryCompanies\bin\Debug\netcoreapp3.1\LibraryCompanies.dll
-C:\Users\johnp\source\repos\ApiRestValidacionEmpresas\LibraryCompanies\bin\Debug\netcoreapp3.1\LibraryCompanies.pdb
-C:\Users\johnp\source\repos\ApiRestValidacionEmpresas\LibraryCompanies\obj\Debug\netcoreapp3.1\LibraryCompanies.csprojAssemblyReference.cache
-C:\Users\johnp\source\repos\ApiRestValidacionEmpresas\LibraryCompanies\obj\Debug\netcoreapp3.1\LibraryCompanies.AssemblyInfoInputs.cache
-C:\Users\johnp\source\repos\ApiRestValidacionEmpresas\LibraryCompanies\obj\Debug\netcoreapp3.1\LibraryCompanies.AssemblyInfo.cs
-C:\Users\johnp\source\repos\ApiRestValidacionEmpresas\LibraryCompanies\obj\Debug\netcoreapp3.1\LibraryCompanies.csproj.CoreCompileInputs.cache
-C:\Users\johnp\source\repos\ApiRestValidacionEmpresas\LibraryCompanies\obj\Debug\netcoreapp3.1\LibraryCompanies.dll
-C:\Users\johnp\source\repos\ApiRestValidacionEmpresas\LibraryCompanies\obj\Debug\netcoreapp3.1\LibraryCompanies.pdb
